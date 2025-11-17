@@ -1,0 +1,10 @@
+archive/
+attention_concept_data.pickle
+cityScapes_utils.py
+other_notebooks/
+slides/
+test_img.jpeg
+weights/
+dataset/
+videos/highway_1241_376_SegFormer35epochs_output.avi
+videos/highway_1241_376.avi
