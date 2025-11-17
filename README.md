@@ -1,7 +1,7 @@
 
 # SegFormer From Scratch
 
-![Demo](videos/campus_1224_370_SegFormer35epochs_output.gif)
+![Demo](videos/highway_1241_376_SegFormer35epochs_output.gif)
 
 *A high-performance semantic segmentation pipeline built end-to-end.*
 
