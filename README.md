@@ -1,6 +1,8 @@
 
 # SegFormer From Scratch
 
+![Demo](videos/campus_1224_370_SegFormer35epochs_output.gif)
+
 *A high-performance semantic segmentation pipeline built end-to-end.*
 
 This repository contains a complete implementation of SegFormer, recreated fully from scratch.
